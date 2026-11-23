@@ -27,17 +27,6 @@ The main objective of this project is to create an attractive and user-friendly 
 - CSS Media Queries – For responsive design.
 - Unsplash – For travel images.
 
-## 📂 Project Structure
-
-```text
-WanderWorld/
-│
-├── index.html
-│
-├── style.css
-│
-└── README.md
-```
 
 ## 🚀 How to Run the Project
 
@@ -64,7 +53,6 @@ The website is designed to work on different screen sizes, including:
 
 - Desktop
 - Laptop
-- Tablet
 - Mobile
 
 ## 📌 Project Objective
